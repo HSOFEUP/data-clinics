@@ -1,5 +1,5 @@
 # Data Analysis - assignments
-This repository consists of three selected projects (called Data Clinics). Each folder contains a notebook with starter code (named "clinicX_StarterCode"), another notebook with my work ("ClinicX_BlazejDolicki") and corresponding data. Every  with my own work has a table of contents at the beginning which enables easy navigation between different sections.
+This repository consists of three selected projects (called Data Clinics). Each folder contains a notebook with starter code (named "clinicX_StarterCode"), another notebook with my work ("ClinicX_BlazejDolicki") and corresponding data. Every notebook with my own work has a table of contents at the beginning which enables easy navigation between different sections.
 
 ## Clinic 1 - Data exploration of movies dataset
 After cleaning and preprocessing the data, I perform a detailed exploratory data analysis accompanied by useful visualizations. Among other things, I examine how trends in different genders change over time, which movies are the most successful (using different metrics of sucess), how revenue and other features correlate with each other. 
